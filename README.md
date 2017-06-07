@@ -6,7 +6,7 @@ Server application
 Zbudować aplikację bazującą na szablonie Dynamic Web Project.
 Ze strony https://jersey.github.io/download.html pobrać plik ZIP Jersey JAX-RS 2.X RI bundle.
 Do katalogu WebContent/WEB-INF/lib skopiować pliki biblioteki Jersey. Dodać je do ścieżki budowy aplikacji.
-Pobrać spakowany plik z projektem.
+Pobrać spakowany plik z projektem. Do testowania projektu konieczne jest uruchomienie serwera np. Glassfish.
 
 1) Przykładowy import projektu
 
