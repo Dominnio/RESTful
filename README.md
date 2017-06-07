@@ -11,7 +11,7 @@ Pobrać spakowany plik z projektem.
 1) Przykładowy import projektu
 
 Projekt można zaimportować do Eclipse w następujący sposób :
-File -> Open Projects from File System... -> Archive
+File -> Open Projects from File System... -> Archive.
 Po wybraniu projektu wcisnąć Finish.
 W 'Project Explorer' powinnien pojawić się projekt o nazwie 'RESTful'.
 
@@ -19,10 +19,10 @@ W 'Project Explorer' powinnien pojawić się projekt o nazwie 'RESTful'.
 
 Należy uruchomić projekt na serwerze. 
 (Kliknąć na projekt -> Run As -> Run on Server -> ...)
-
+</br></br>
 Natępnie można uruchomić klasę 'test.java' jako aplikację Javową.
 (Kliknąć na klase -> Run As -> Java Application)
 W odpowiedzi w konsoli powinniśmy otrzymać dane po unmarshallingu struktury XML zwróconej przez stronę.
-
+</br></br>
 Można również w przeglądarce podać ścieżkę np. http://localhost:8080/RESTful/student.
 Powinniśmy otrzymać odpowiedź w formie xml.
